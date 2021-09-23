@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dofmor. I'm a computer science student
-- 👀 I’m interested in data science and software development
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning Python libraries such as Pandas
 - 📫 You can reach me via email: danof.mora@gmail.com
 
