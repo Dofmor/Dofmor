@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Dofmor. I'm a computer science student
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning IOS development
 - 📫 You can reach me via email: danof.mora@gmail.com
 
 <!---
