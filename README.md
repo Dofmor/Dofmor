@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Dofmor. I'm a computer science student
-- 👀 I’m interested in software development
+- 👋 Hi, I’m @Dofmor.
+- 👀 I’m interested in web development
 - 📫 You can reach me via email: danof.mora@gmail.com
 
 <!---
