@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dofmor.
-- 👀 I’m interested in web development
-- 📫 You can reach me via email: danof.mora@gmail.com
+- 👀 I’m interested in software engineering
+- 📫 You can reach me via email: danochmora@gmail.com
 
 <!---
 Dofmor/Dofmor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
